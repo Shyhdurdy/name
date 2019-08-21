@@ -5,10 +5,10 @@ public abstract class Handy {
 	
 	public void ne() {
 		System.out.println("anythins");
-		
+		int n=12;
 	}
 private void mn() {
 	System.out.println();
-	
+	System.out.println();
 }
 }
