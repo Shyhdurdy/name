@@ -1,0 +1,10 @@
+browser=firefox
+url=https://syntaxproject-trials65.orangehrmlive.com
+username=Admin
+password=Syntax123!
+
+dbUrl=jdbc:oracle:thin:@syntaxdatabase.cdjflmucstpo.us-east-1.rds.amazonaws.com:1521:orcl
+
+dbUsername=Syntax
+
+dbPassword=syntax123
