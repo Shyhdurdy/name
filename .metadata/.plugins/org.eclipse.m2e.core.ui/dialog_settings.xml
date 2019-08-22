@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="hjuy"/>
 			<item value="Test1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="hju"/>
 			<item value="Test2"/>
 		</list>
 		<list key="projectNameTemplate">

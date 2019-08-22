@@ -1,14 +1,16 @@
 package Test3;
 
 public abstract class Handy {
-	public abstract void many();
+	public static void main(String[] args) {
 	
-	public void ne() {
-		System.out.println("anythins");
-		int n=12;
+	
+	String a="force";
+	String b=a.replace("f","Kf");
+		System.out.println(b);
+		String s="fluffy";
+		String n=s.replaceAll("f","Kf");
+		System.out.println(n);
 	}
-private void mn() {
-	System.out.println();
-	System.out.println();
-}
-}
+		
+	}
+
